@@ -1,0 +1,46 @@
+{
+    "os": "Windows-10-10.0.19045-SP0",
+    "python": "3.12.4",
+    "heartbeatAt": "2024-07-25T09:44:29.836900",
+    "startedAt": "2024-07-25T09:44:28.940298",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "host": "DESKTOP-9SAF76N",
+    "username": "Cale",
+    "executable": "c:\\Users\\Cale\\.virtualenvs\\suds_ai-TmJupkLh\\Scripts\\python.exe",
+    "cpu_count": 2,
+    "cpu_count_logical": 4,
+    "cpu_freq": {
+        "current": 3401.0,
+        "min": 0.0,
+        "max": 3401.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3401.0,
+            "min": 0.0,
+            "max": 3401.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 916.6718711853027,
+            "used": 131.20483779907227
+        }
+    },
+    "gpu": "NVIDIA GeForce 930MX",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce 930MX",
+            "memory_total": 4294967296
+        }
+    ],
+    "memory": {
+        "total": 3.8937225341796875
+    }
+}
