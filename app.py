@@ -1,7 +1,15 @@
 from openai import AsyncOpenAI
-from dotenv 
+from dotenv import dotenv_values
 
-# https://community.openai.com/t/asynchronous-use-of-the-library/479414
-client = AsyncOpenAI(
+def main():
+    secrets = dotenv_values()
 
-)
+    client = AsyncOpenAI(
+        api_key=secrets["OPENAI_API_KEY"]
+    )
+
+    
+
+
+if __name__ == "__main__":
+    main()
