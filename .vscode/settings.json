@@ -1,0 +1,13 @@
+{
+    "python.analysis.typeCheckingMode": "strict",
+    "cSpell.words": [
+        "dotenv",
+        "langchain",
+        "langsmith",
+        "openai",
+        "pydantic",
+        "pymupdf",
+        "qdrant",
+        "tiktoken"
+    ]
+}

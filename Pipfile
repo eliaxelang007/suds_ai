@@ -5,8 +5,6 @@ name = "pypi"
 
 [packages]
 ipykernel = "*"
-setuptools = "*"
-typing-extensions = {git = "git+https://github.com/python/typing_extensions.git#egg=typing_extensions"}
 
 [dev-packages]
 
