@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 ipykernel = "*"
+nbconvert = "*"
 
 [dev-packages]
 

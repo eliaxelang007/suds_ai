@@ -8,6 +8,7 @@
         "pydantic",
         "pymupdf",
         "qdrant",
-        "tiktoken"
+        "tiktoken",
+        "vectorstore"
     ]
 }
