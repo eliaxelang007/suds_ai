@@ -1,0 +1,102 @@
+('{\'messages\': [HumanMessage(content="What are the main takeaways from the '
+ 'paper `Extending Llama-3\'s Context Ten-Fold Overnight\'?", '
+ "id='4d3eb31c-cd46-4482-8217-7a18ab31abed'), AIMessage(content='', "
+ "additional_kwargs={'tool_calls': [{'id': 'call_1bDnoTTqO47HoPmb5XwSf4lW', "
+ '\'function\': {\'arguments\': \'{"query":"Extending Llama-3\\\'s Context '
+ 'Ten-Fold Overnight paper main takeaways"}\', \'name\': '
+ "'tavily_search_results_json'}, 'type': 'function'}], 'refusal': None}, "
+ "response_metadata={'token_usage': {'completion_tokens': 33, 'prompt_tokens': "
+ "170, 'total_tokens': 203}, 'model_name': 'gpt-3.5-turbo-0125', "
+ "'system_fingerprint': None, 'finish_reason': 'tool_calls', 'logprobs': "
+ "None}, name='search', id='run-b6a4f31e-0c9c-4e33-993a-1e4a8a120050-0', "
+ "tool_calls=[{'name': 'tavily_search_results_json', 'args': {'query': "
+ '"Extending Llama-3\'s Context Ten-Fold Overnight paper main takeaways"}, '
+ "'id': 'call_1bDnoTTqO47HoPmb5XwSf4lW', 'type': 'tool_call'}], "
+ "usage_metadata={'input_tokens': 170, 'output_tokens': 33, 'total_tokens': "
+ '203}), ToolMessage(content=\'[{"url": "https://arxiv.org/abs/2404.19553", '
+ '"content": "View a PDF of the paper titled Extending Llama-3\\\'s Context '
+ 'Ten-Fold Overnight, by Peitian Zhang and 6 other authors. We extend the '
+ 'context length of Llama-3-8B-Instruct from 8K to 80K via QLoRA fine-tuning. '
+ 'The entire training cycle is super efficient, which takes 8 hours on one '
+ '8xA800 (80G) GPU machine. The resulted model exhibits superior ..."}, '
+ '{"url": '
+ '"https://dev.to/mikeyoung44/extending-llama-3s-context-ten-fold-overnight-4340", '
+ '"content": "This is a Plain English Papers summary of a research paper '
+ "called Extending Llama-3\\'s Context Ten-Fold Overnight.If you like these "
+ 'kinds of analysis, you should subscribe to the AImodels.fyi newsletter or '
+ 'follow me on Twitter.. Overview Extends the context length of '
+ 'Llama-3-8B-Instruct model from 8K to 80K via QLoRA fine-tuning"}, {"url": '
+ '"https://vladbogo.substack.com/p/extending-llama-3s-context-ten-fold", '
+ '"content": "The authors demonstrate an efficient way to extend an LLM\\\'s '
+ 'context length up to 80K tokens, while retaining decent performance on long '
+ 'contexts. For more information please consult the full paper. Congrats to '
+ 'the authors for their work! Zhang, Peitian, et al. \\\\"Extending '
+ 'Llama-3\\\'s Context Ten-Fold Overnight.\\\\""}, {"url": '
+ '"https://arxiv.org/pdf/2404.19553", "content": "Extending Llama-3\\\'s '
+ 'Context Ten-Fold Overnight Peitian Zhang 1,2, Ninglu Shao , Zheng Liu '
+ '\\\\u2217, Shitao Xiao 1, Hongjin Qian,2, Qiwei Ye1, Zhicheng Dou2 1 Beijing '
+ 'Academy of Artificial Intelligence 2 Gaoling School of Artificial '
+ 'Intelligence, Renmin University of China namespace.pt@gmail.com '
+ 'zhengliu1026@gmail.com Abstract We extend the context length of '
+ 'Llama-3-8B-Instruct from 8K to 80K via ..."}, {"url": '
+ '"https://paperswithcode.com/paper/extending-llama-3-s-context-ten-fold/review/", '
+ '"content": "Extending Llama-3\\\'s Context Ten-Fold Overnight . We extend '
+ 'the context length of Llama-3-8B-Instruct from 8K to 80K via QLoRA '
+ 'fine-tuning. The entire training cycle is super efficient, which takes 8 '
+ 'hours on one 8xA800 (80G) GPU machine."}]\', name=\'search\', '
+ "id='4d341c22-6e59-4143-8bd1-864e3c5777fd', "
+ "tool_call_id='call_1bDnoTTqO47HoPmb5XwSf4lW', artifact={'query': "
+ '"Extending Llama-3\'s Context Ten-Fold Overnight paper main takeaways", '
+ "'follow_up_questions': None, 'answer': None, 'images': [], 'results': "
+ '[{\'title\': "[2404.19553] Extending Llama-3\'s Context Ten-Fold Overnight - '
+ 'arXiv.org", \'url\': \'https://arxiv.org/abs/2404.19553\', \'content\': '
+ '"View a PDF of the paper titled Extending Llama-3\'s Context Ten-Fold '
+ 'Overnight, by Peitian Zhang and 6 other authors. We extend the context '
+ 'length of Llama-3-8B-Instruct from 8K to 80K via QLoRA fine-tuning. The '
+ 'entire training cycle is super efficient, which takes 8 hours on one 8xA800 '
+ '(80G) GPU machine. The resulted model exhibits superior ...", \'score\': '
+ '0.9992206, \'raw_content\': None}, {\'title\': "Extending Llama-3\'s Context '
+ 'Ten-Fold Overnight - DEV Community", \'url\': '
+ "'https://dev.to/mikeyoung44/extending-llama-3s-context-ten-fold-overnight-4340', "
+ '\'content\': "This is a Plain English Papers summary of a research paper '
+ "called Extending Llama-3's Context Ten-Fold Overnight.If you like these "
+ 'kinds of analysis, you should subscribe to the AImodels.fyi newsletter or '
+ 'follow me on Twitter.. Overview Extends the context length of '
+ 'Llama-3-8B-Instruct model from 8K to 80K via QLoRA fine-tuning", \'score\': '
+ '0.9989637, \'raw_content\': None}, {\'title\': "Extending Llama-3\'s Context '
+ 'Ten-Fold Overnight", \'url\': '
+ "'https://vladbogo.substack.com/p/extending-llama-3s-context-ten-fold', "
+ "'content': 'The authors demonstrate an efficient way to extend an LLM\\'s "
+ 'context length up to 80K tokens, while retaining decent performance on long '
+ 'contexts. For more information please consult the full paper. Congrats to '
+ 'the authors for their work! Zhang, Peitian, et al. "Extending Llama-3\\\'s '
+ 'Context Ten-Fold Overnight."\', \'score\': 0.99895966, \'raw_content\': '
+ 'None}, {\'title\': "Abstract Extending Llama-3\'s Context Ten-Fold - '
+ 'arXiv.org", \'url\': \'https://arxiv.org/pdf/2404.19553\', \'content\': '
+ '"Extending Llama-3\'s Context Ten-Fold Overnight Peitian Zhang 1,2, Ninglu '
+ 'Shao , Zheng Liu ∗, Shitao Xiao 1, Hongjin Qian,2, Qiwei Ye1, Zhicheng Dou2 '
+ '1 Beijing Academy of Artificial Intelligence 2 Gaoling School of Artificial '
+ 'Intelligence, Renmin University of China namespace.pt@gmail.com '
+ 'zhengliu1026@gmail.com Abstract We extend the context length of '
+ 'Llama-3-8B-Instruct from 8K to 80K via ...", \'score\': 0.99862224, '
+ '\'raw_content\': None}, {\'title\': "Extending Llama-3\'s Context Ten-Fold '
+ 'Overnight - Papers With Code", \'url\': '
+ "'https://paperswithcode.com/paper/extending-llama-3-s-context-ten-fold/review/', "
+ '\'content\': "Extending Llama-3\'s Context Ten-Fold Overnight . We extend '
+ 'the context length of Llama-3-8B-Instruct from 8K to 80K via QLoRA '
+ 'fine-tuning. The entire training cycle is super efficient, which takes 8 '
+ 'hours on one 8xA800 (80G) GPU machine.", \'score\': 0.99742913, '
+ "'raw_content': None}], 'response_time': 2.05}), AIMessage(content='The paper "
+ 'titled "Extending Llama-3\\\'s Context Ten-Fold Overnight" by Peitian Zhang '
+ 'and other authors extends the context length of Llama-3-8B-Instruct model '
+ 'from 8K to 80K through QLoRA fine-tuning. The entire training cycle is super '
+ 'efficient, taking 8 hours on one 8xA800 (80G) GPU machine. The resulting '
+ "model demonstrates superior performance on long contexts.', "
+ "additional_kwargs={'refusal': None}, response_metadata={'token_usage': "
+ "{'completion_tokens': 91, 'prompt_tokens': 791, 'total_tokens': 882}, "
+ "'model_name': 'gpt-3.5-turbo-0125', 'system_fingerprint': None, "
+ "'finish_reason': 'stop', 'logprobs': None}, name='search', "
+ "id='run-f19c5f60-1f92-4cb2-9e22-6eb00e6a39e2-0', "
+ "usage_metadata={'input_tokens': 791, 'output_tokens': 91, 'total_tokens': "
+ "882})], 'team_members': ['search']}\n"
+ '\n')
