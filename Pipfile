@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 openai = "*"
 python-dotenv = "*"
+typing-extensions = {git = "git+https://github.com/python/typing_extensions.git#egg=typing_extensions"}
 
 [dev-packages]
 

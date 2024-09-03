@@ -1,12 +1,8 @@
 from csv import DictReader
 from pathlib import Path
 
-def main():
+def main() -> None:
     raw_data_folder = Path("./1_raw_data/")
-
-    conversations = {
-
-    }
 
     q_and_as = {
 
@@ -24,7 +20,7 @@ def main():
             reader = DictReader(place_q_and_a_file)
 
             for raw_q_and_a in reader:
-                a = raw_q_and_a
+                print(raw_q_and_a)
 
 if __name__ == "__main__":
     main()
