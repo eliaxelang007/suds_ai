@@ -1,0 +1,490 @@
+[
+    {
+        "question": "pwede po ba walk in?",
+        "answer": "\"Yes maam puede po\", \"But if you can try our app ok din\"",
+        "client": "Mariesthel Palino",
+        "ask_language": "Tagalog",
+        "answer_language": "Taglish",
+        "category": "appointment"
+    },
+    {
+        "question": "ok po. punta na lang po ako sa shop nyo, malapit lang po ba kayo sa gate ng bf resort?",
+        "answer": "Yes  maam  beside Montery Pink Bdlg. maam",
+        "client": "Mariesthel Palino",
+        "ask_language": "Tagalog",
+        "answer_language": "Tagalog",
+        "category": "location"
+    },
+    {
+        "question": "Ano po pinned loc and how much po?",
+        "answer": "You can pin Suds Laundry & Dryclean Services- BF RESORT po in lalamove. For the prices, can you share po the photos of your items pls before booking po. Thanks!",
+        "client": "Kylila Del Rosario",
+        "ask_language": "Tagalog",
+        "answer_language": "Taglish",
+        "category": "pricing"
+    },
+    {
+        "question": "Ano po pinned loc and how much po?",
+        "answer": "You can pin Suds Laundry & Dryclean Services- BF RESORT po in lalamove. For the prices, can you share po the photos of your items pls before booking po. Thanks!",
+        "client": "Kylila Del Rosario",
+        "ask_language": "Tagalog",
+        "answer_language": "Taglish",
+        "category": "pricing"
+    },
+    {
+        "question": "May i ask some one to talk to?",
+        "answer": "Hello Artom, thanks for getting in touch. How can I help you? \ud83d\ude42 (*1)",
+        "client": "Artom Lu",
+        "ask_language": "English",
+        "answer_language": "English",
+        "category": "messaging_platform"
+    },
+    {
+        "question": "open po ba kayo ng sunday?",
+        "answer": "Maam  close po pg sunday! Pg my time ka nalang maam",
+        "client": "Mariesthel Palino",
+        "ask_language": "Tagalog",
+        "answer_language": "Tagalog",
+        "category": "open_hours"
+    },
+    {
+        "question": "Are you open today for pick up of our clothings and others for laundry services? I am a resident of BFRV Las Pinas City. Fyi. Please advise. Thank you very much.",
+        "answer": "Sir May I know your no.",
+        "client": "Jun Ingeniero",
+        "ask_language": "English",
+        "answer_language": "English",
+        "category": "pickup_deliver"
+    },
+    {
+        "question": "Are you open today for pick up of our clothings and others for laundry services? I am a resident of BFRV Las Pinas City. Fyi. Please advise. Thank you very much.",
+        "answer": "Sir May I know your no.",
+        "client": "Jun Ingeniero",
+        "ask_language": "English",
+        "answer_language": "English",
+        "category": "pickup_deliver"
+    },
+    {
+        "question": "Can I get QR code pic po?",
+        "answer": " https://scontent.fmnl33-2.fna.fbcdn.net/v/t1.15752-9/370064749_829595972181287_6238323121593305560_n.png?stp=dst-png_p280x280&_nc_cat=104&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeFMLjaRpOxbjBEsFOxDxb5IlUp7-ZpkUwmVSnv5mmRTCeSWi1Hd6aRh0tft4rwHUEGRLaUpPUF0g7nEOtLq4Vyw&_nc_ohc=F2KTbFjmKqEQ7kNvgFicPLy&_nc_ht=scontent.fmnl33-2.fna&oh=03_Q7cD1QG-hN9R04-9PEW3sO6Nq6EL2jr17HKDalgMugvGdhNx2A&oe=66DBA7BE",
+        "client": "Reg Sevilla",
+        "ask_language": "Taglish",
+        "answer_language": "Image",
+        "category": "payment"
+    },
+    {
+        "question": "Hello po nag pipick up po kayo and deliver if ever mag papa dry cleaning? Sa bf international village po location namin",
+        "answer": "Yes po thrue lalamove po.",
+        "client": "Kylila Del Rosario",
+        "ask_language": "Tagalog",
+        "answer_language": "Tagalog",
+        "category": "pickup_deliver"
+    },
+    {
+        "question": "how much po magpa dry clean ng barong?",
+        "answer": "https://m.me/693945117478159/?ref=specific_service_AbiZBcViTfAn65QKpzY6",
+        "client": "Mark Nelson Lopez",
+        "ask_language": "Tagalog",
+        "answer_language": "Link",
+        "category": "pricing"
+    },
+    {
+        "question": "Good morning. How much po magpa dry clean ng coat?",
+        "answer": "Price starts at Php 450 per piece",
+        "client": "Sandra Palac",
+        "ask_language": "Tagalog",
+        "answer_language": "English",
+        "category": "pricing"
+    },
+    {
+        "question": "Hello! How much po magpa dry laundry ng wedding gown?",
+        "answer": "Our wedding gown cleaning rates for a simple wedding gown cleaning start at Php 2,000. \ud83d\ude42However, the price may vary depending on the details of the gown.  Please send us the following so we can give you the best price:1. Full-body photo2. Close-up photo of the details3. Fabric type (if known)4. Dimensions (length of dress and train)5. Description from the designer (if available)6. How many layers of fabricSee the photo for our wedding gown drycleaning price guide: https://drive.google.com/file/d/1dFVXoHIU9VxtTbh4c2KcsrwHo7f07n81/view?usp=drive_link",
+        "client": "Abigail S. Arante",
+        "ask_language": "Tagalog",
+        "answer_language": "English",
+        "category": "pricing"
+    },
+    {
+        "question": "What are your rates for towels and beddings?",
+        "answer": "For blankets and towels- its 60 per kilo (machine wash), while comforter is Php 125 per kilo",
+        "client": "Larae Opulencia",
+        "ask_language": "English",
+        "answer_language": "English",
+        "category": "pricing"
+    },
+    {
+        "question": "Pag veil lang po how much po",
+        "answer": "If veil lang po, pls send a picture of the veil po para po maassess namin",
+        "client": "Sheikh Alfonso",
+        "ask_language": "Tagalog",
+        "answer_language": "Taglish",
+        "category": "pricing"
+    },
+    {
+        "question": "good morning, how much po magpadry clean ng puffer jacket?",
+        "answer": "\"maam good afternoon po.400 up po\", \"https://m.me/693945117478159/?ref=specific_service_sb6wLfuRqttU7DZxHb1i\"",
+        "client": "Abigail Magpatoc",
+        "ask_language": "Tagalog",
+        "answer_language": "Tagalog",
+        "category": "pricing"
+    },
+    {
+        "question": "3k and up ba sa wedding gown?",
+        "answer": "Yes maam depende po",
+        "client": "Mariesthel Palino",
+        "ask_language": "Tagalog",
+        "answer_language": "Tagalog",
+        "category": "pricing"
+    },
+    {
+        "question": "\"how much for carpet dry clean?\", \"possible po ba drop today tomorrow pick up?\"",
+        "answer": "For carpet po, 10-15 days po kami",
+        "client": "Gec Nava",
+        "ask_language": "Taglish",
+        "answer_language": "Taglish",
+        "category": "processing_time"
+    },
+    {
+        "question": "\"how much for carpet dry clean?\", \"possible po ba drop today tomorrow pick up?\"",
+        "answer": "For carpet po, 10-15 days po kami",
+        "client": "Gec Nava",
+        "ask_language": "Taglish",
+        "answer_language": "Taglish",
+        "category": "processing_time"
+    },
+    {
+        "question": "Good morning po, if magpa dry clean po ba today ng gown kelan po makukuha?",
+        "answer": "5 to 7 days po maam",
+        "client": "Shally Mae Ba\u00f1adera",
+        "ask_language": "Tagalog",
+        "answer_language": "Tagalog",
+        "category": "processing_time"
+    },
+    {
+        "question": "ilang days po bago makuha?",
+        "answer": "Maam give us 7 days  for wedding gown but if you need  asap  just inform para priority namin maam",
+        "client": "Mariesthel Palino",
+        "ask_language": "Tagalog",
+        "answer_language": "Tagalog",
+        "category": "processing_time"
+    },
+    {
+        "question": "Hello, may I know if you have a special service for whites?",
+        "answer": "\"Yes, we have white wash services.\", \"Its a dedicated service for white items for Php 160 per kilo (no press)\"",
+        "client": "Larae Opulencia",
+        "ask_language": "English",
+        "answer_language": "English",
+        "category": "services"
+    },
+    {
+        "question": "Maganda po kasi feedback sa inyo dyan sa Dasma. Hanggang anong oras po kayo open?",
+        "answer": "Hi mam we are open on monday. From 8 a.m to 6:30  p.m tnx",
+        "client": "Eli Joy Sierra",
+        "ask_language": "Tagalog",
+        "answer_language": "Taglish",
+        "category": "open_hours"
+    },
+    {
+        "question": "\"Hi, possible ba na pwede ma pick up ang item sa bahay ko. I'm from Imus po. How and how much po. Ty.\", \"Or do you have branch here in Imus para much more convenient on my end? thanks.\"",
+        "answer": "\"Hi meron po kami dyan sa Robinson Imus\", \"https://www.facebook.com/SudsImus?mibextid=ZbWKwL\"",
+        "client": "Eli Joy Sierra",
+        "ask_language": "Taglish",
+        "answer_language": "Tagalog",
+        "category": "pickup_deliver"
+    },
+    {
+        "question": "Hi. How much po magpa dry clean ng gown ?",
+        "answer": "Our gown cleaning rates for a simple gown cleaning start at Php 500. \ud83d\ude42 \r\n\r\nHowever, the price may vary depending on the details of the gown.  Please send us the following so we can give you the best price:  \r\n1. Full-body photo \r\n2. Close-up photo of the details \r\n3. Fabric type (if known) \r\n4. Dimensions (length of dress and train) \r\n5. Description from the designer (if available) \r\n6. How many layers of fabric  \r\n\r\nSee the photo for our gown drycleaning price guide: https://drive.google.com/file/d/163Fv4c8oH2uau7MXwbNlljvigclE2zjo/view?usp=drive_link",
+        "client": "Rotina Di\u00e1ria",
+        "ask_language": "Tagalog",
+        "answer_language": "English",
+        "category": "pricing"
+    },
+    {
+        "question": "Good evening po! I just want to ask if pag nagpa dry clean po ng gown, makukuha din po siya within the day?",
+        "answer": "No po maam. Our gown cleaning is 5-7 days po",
+        "client": "Ella Mae Roxas",
+        "ask_language": "Taglish",
+        "answer_language": "Taglish",
+        "category": "processing_time"
+    },
+    {
+        "question": "\"Hi good morning! Ask ko lang po if kaya po mag pa Dry Clean ng Barong later then ilang days po kaya bago makuha kung sakali po? Thank you.\", \"Need po kasi gamitin yung Barong this saturday morning\"",
+        "answer": "Hi mam my apology 1 week to process mam kasi ngayon.",
+        "client": "Lou Abasola",
+        "ask_language": "Tagalog",
+        "answer_language": "Tagalog",
+        "category": "processing_time"
+    },
+    {
+        "question": "Hi! Do you offer ink stain removal?",
+        "answer": "Hi my apology as of the moment we are not accepting ink stain removal.",
+        "client": "Luan",
+        "ask_language": "English",
+        "answer_language": "English",
+        "category": "services"
+    },
+    {
+        "question": "Do.you do.stuff toy dry cleaning?",
+        "answer": "Yes po. Can you send the dimension of the stuffed toy? Like width and height measurements po and picture for assessment?",
+        "client": "Cristina Tanching",
+        "ask_language": "English",
+        "answer_language": "Taglish",
+        "category": "services"
+    },
+    {
+        "question": "Exact 5 pm po ba kayo nag cloclose?",
+        "answer": "7:00pm po maam.",
+        "client": "Mavic Bravo",
+        "ask_language": "Tagalog",
+        "answer_language": "Tagalog",
+        "category": "open_hours"
+    },
+    {
+        "question": "Open poba kayo?",
+        "answer": "Yes po maam until 7pm po.",
+        "client": "Karen M. Andres",
+        "ask_language": "Tagalog",
+        "answer_language": "Tagalog",
+        "category": "open_hours"
+    },
+    {
+        "question": "Are u open today",
+        "answer": "We're open from Mondays to Saturdays (8am to 5pm).",
+        "client": "Nes Angcanan-Taylor",
+        "ask_language": "English",
+        "answer_language": "English",
+        "category": "open_hours"
+    },
+    {
+        "question": "Meron po pick up and delivery?",
+        "answer": "We do pick-up and delivery for your safety and convenience.\ud83d\ude0a\n\nKindly send us your contact number + location and our staff will get in touch with you.\ud83e\udde1\n\n\ud83d\udef5TRY SUDS LAUNDRYNOW: https://laundrynow.suds.com.ph/\n1. Select the service you need\n2. Confirm your pick-up details and MOP\n3. All set! Just wait for our confirmation\n\n\ud83d\udef5FOR ON-DEMAND PICK-UP:\nIn partnership with Grab and Lalamove, we can arrange booking for you or you can book yourself.\n*Fees apply to respective rate cards.\n\n\ud83d\udef5FOR SCHEDULED PICK-UP:\nOur own vehicle will arrange the pick-up\n*Fee is P75/way \n\n\u2753NEED A LAUNDRY BAG\nBuy here in advance!\n\ud83e\udde1Contactless Bag: https://bit.ly/3jPkHOV\n\ud83e\udde1LaundryNow Bag: https://bit.ly/3pOsdO2\n\nRead https://suds.com.ph/laundrynow/ for more info.\n\nNote: Items exceeding the maximum 8kg per bag will be charged per kilo.\n\nCall 0933-866-2216 NOW to arrange your booking.",
+        "client": "Jamaica Ant",
+        "ask_language": "Tagalog",
+        "answer_language": "English",
+        "category": "pickup_deliver"
+    },
+    {
+        "question": "Hello, do you pick up laundry po?",
+        "answer": "We do pick-up and delivery for your safety and convenience.\ud83d\ude0a\r\n\r\nKindly send us your contact number + location and our staff will get in touch with you.\ud83e\udde1\r\n\r\n\ud83d\udef5TRY SUDS LAUNDRYNOW: https://laundrynow.suds.com.ph/\r\n1. Select the service you need\r\n2. Confirm your pick-up details and MOP\r\n3. All set! Just wait for our confirmation\r\n\r\n\ud83d\udef5FOR ON-DEMAND PICK-UP:\r\nIn partnership with Grab and Lalamove, we can arrange booking for you or you can book yourself.\r\n*Fees apply to respective rate cards.\r\n\r\n\ud83d\udef5FOR SCHEDULED PICK-UP:\r\nOur own vehicle will arrange the pick-up\r\n*Fee is P75/way \r\n\r\n\u2753NEED A LAUNDRY BAG\r\nBuy here in advance!\r\n\ud83e\udde1Contactless Bag: https://bit.ly/3jPkHOV\r\n\ud83e\udde1LaundryNow Bag: https://bit.ly/3pOsdO2\r\n\r\nRead https://suds.com.ph/laundrynow/ for more info.\r\n\r\nNote: Items exceeding the maximum 8kg per bag will be charged per kilo.\r\n\r\nCall 0933-866-2216 NOW to arrange your booking.",
+        "client": "Ton Brillantes",
+        "ask_language": "Taglish",
+        "answer_language": "English",
+        "category": "pickup_deliver"
+    },
+    {
+        "question": "Hello po, do you have dry cleaning services",
+        "answer": "\"Hello sir yes po\", \"Hi! Do you have an actual picture of the garment? Thanks! \ud83d\ude42\", \"Please call or text 0933-866-2216\r\nYou can also leave your contact number.\r\nWe will contact you as soon as possible.\"",
+        "client": "Gab Matola",
+        "ask_language": "Taglish",
+        "answer_language": "English",
+        "category": "pickup_deliver"
+    },
+    {
+        "question": "how much po pa dry clean?",
+        "answer": "Hi! Do you have an actual picture of the garment? Thanks! \ud83d\ude42",
+        "client": "Bambina Anibmab",
+        "ask_language": "Tagalog",
+        "answer_language": "Tagalog",
+        "category": "pricing"
+    },
+    {
+        "question": "Good morning. Ask ko lang po how much magpa laundry ng wedding gown?",
+        "answer": "[Automated Response]",
+        "client": "Diana Balanza",
+        "ask_language": "Tagalog",
+        "answer_language": "English",
+        "category": "pricing"
+    },
+    {
+        "question": "good pm! Hm po shoe cleaning?",
+        "answer": "[Automated Response]",
+        "client": "Jonjie Lozano",
+        "ask_language": "Tagalog",
+        "answer_language": "English",
+        "category": "pricing"
+    },
+    {
+        "question": "Pero free pick up po?",
+        "answer": "Yes po maam",
+        "client": "Karen M. Andres",
+        "ask_language": "Tagalog",
+        "answer_language": "Tagalog",
+        "category": "pickup_deliver"
+    },
+    {
+        "question": "Pero free pick up po?",
+        "answer": "Yes po maam",
+        "client": "Karen M. Andres",
+        "ask_language": "Tagalog",
+        "answer_language": "Tagalog",
+        "category": "pickup_deliver"
+    },
+    {
+        "question": "ilang araw po pag rush?",
+        "answer": "1 day po process.",
+        "client": "Jonjie Lozano",
+        "ask_language": "Tagalog",
+        "answer_language": "Tagalog",
+        "category": "processing_time"
+    },
+    {
+        "question": "Hello. Ask ko lang do you accept rush? Im willing to pay for additional charges if ever. I need it by monday kasi sana. Im willing to personally deliver it. I have the gown altered pa kasi so bukas ko pa makuha. I need it by Monday sana \u2639\ufe0f\ud83d\ude4f Thank youu",
+        "answer": "Please call or text 0933-866-2216\r\nYou can also leave your contact number.\r\nWe will contact you as soon as possible.",
+        "client": "Sharmaine Jane Terrado Romualdo",
+        "ask_language": "Taglish",
+        "answer_language": "English",
+        "category": "rush_mechanics"
+    },
+    {
+        "question": "Hi! Do you dry clean luggages?",
+        "answer": "Our luggage cleaning rates for a simple luggage cleaning start at Php 800. \ud83d\ude42 \r\n\r\nHowever, the price may vary depending on the details of the bag.  Please send us an actual picture so we can give you the best price:  \r\n\r\nSee the photo for our bag cleaning price guide: https://drive.google.com/file/d/1xDphU-_CmcuEBdVjIgjeTcpQRzTWZo9v/view?usp=drive_link",
+        "client": "Gelly Queyquep",
+        "ask_language": "English",
+        "answer_language": "English",
+        "category": "services"
+    },
+    {
+        "question": "Hello! Is hang dry still available?",
+        "answer": "Good morning po mam yes we do hand wash po for hang to dry po",
+        "client": "Raine Samson",
+        "ask_language": "English",
+        "answer_language": "Tagalog",
+        "category": "services"
+    },
+    {
+        "question": "Malapit lang po b kau sa Ace Hotel?",
+        "answer": "Good morning po mam yes po malapit Lang po kami",
+        "client": "Judy Ann Saballero",
+        "ask_language": "Tagalog",
+        "answer_language": "Tagalog",
+        "category": "location"
+    },
+    {
+        "question": "Hm dryclean for ballgown (edited)",
+        "answer": "Good morning po mam starting price po is 800 po",
+        "client": "Shellet Moaje Bisares",
+        "ask_language": "English",
+        "answer_language": "Tagalog",
+        "category": "pricing"
+    },
+    {
+        "question": "Hi possible po ba kung same day? i-book via lalamove",
+        "answer": "Good morning po sir pasensya po next day po ang rush namin tapos po double charge po",
+        "client": "Zild Benitez",
+        "ask_language": "Tagalog",
+        "answer_language": "Tagalog",
+        "category": "next_day_mechanics"
+    },
+    {
+        "question": "\"ilang days po bago makuha ?\", \"2 gowns po papa dry clean ko\"",
+        "answer": "4days po mam by Saturday po ready to pick up na po",
+        "client": "Luz B. Cedillo-Picache",
+        "ask_language": "Tagalog",
+        "answer_language": "Tagalog",
+        "category": "processing_time"
+    },
+    {
+        "question": "Hello po ma'am/sir, if mag0a dry clean ba ako today ng suit, kaya po matapos by friday?",
+        "answer": "If mdala po today hapon po ng friday makuha",
+        "client": "Grafer-Carl Lentejas",
+        "ask_language": "English",
+        "answer_language": "English",
+        "category": "processing_time"
+    },
+    {
+        "question": "pick up and deliver kau?",
+        "answer": "Yes po",
+        "client": "Angel Reign",
+        "ask_language": "Tagalog",
+        "answer_language": "Tagalog",
+        "category": "pickup_deliver"
+    },
+    {
+        "question": "\"Hi?\", \"Available po for pick up???\"",
+        "answer": "Wednesday schedule for pickup and deliver",
+        "client": "Bobby Garcia",
+        "ask_language": "Tagalog",
+        "answer_language": "English",
+        "category": "pickup_deliver"
+    },
+    {
+        "question": "HM per kilo for beddings",
+        "answer": "60 per kilo po",
+        "client": "Zet Cruz",
+        "ask_language": "Tagalog",
+        "answer_language": "Tagalog",
+        "category": "pricing"
+    },
+    {
+        "question": "Hi! Is the dry cleaning under Helena Nonato ready na po?",
+        "answer": "Good morning po mam yes po ready for pick up na po (*1)",
+        "client": "Helena Troy Nonato",
+        "ask_language": "Taglish",
+        "answer_language": "Tagalog",
+        "category": "order_status"
+    },
+    {
+        "question": "pwde pko po ba ipa LALAmove yung ipapa Dry clean ko Doctor's Lab Gown",
+        "answer": "Good morning po yes po pwede po",
+        "client": "Nikko Cataquiz",
+        "ask_language": "Tagalog",
+        "answer_language": "Tagalog",
+        "category": "lalamove"
+    },
+    {
+        "question": "usually ilang days po ang dry clean?",
+        "answer": "\"4 days process po kami\", \"Mayroon din po kaming next day kaso double charge po\"",
+        "client": "Nikko Cataquiz",
+        "ask_language": "Tagalog",
+        "answer_language": "Tagalog",
+        "category": "processing_time"
+    },
+    {
+        "question": "Hello po, open po ba kayo sa sabado",
+        "answer": "Yes po open po kami from 8am to 7pm",
+        "client": "Besh Seller",
+        "ask_language": "Tagalog",
+        "answer_language": "Tagalog",
+        "category": "open_hours"
+    },
+    {
+        "question": "malapit kayo sa dela salle dasma di ba?",
+        "answer": "Sa tapat po kami ng EAC papasok po \ud83d\ude42",
+        "client": "Josie Ninofranco Cuatrona Ruanes",
+        "ask_language": "Tagalog",
+        "answer_language": "Tagalog",
+        "category": "location"
+    },
+    {
+        "question": "How many days po pag pina dry clean yung suit?",
+        "answer": "Hello good afternoon 3days po",
+        "client": "Yahzee Urbano",
+        "ask_language": "Tagalog",
+        "answer_language": "Tagalog",
+        "category": "processing_time"
+    },
+    {
+        "question": "\"Hi, magkano po pa-laundry ng black curtain\", \"*Blackout curtain\"",
+        "answer": "Sorry po, we're not accepting black out curtain",
+        "client": "Jessica Irabagon",
+        "ask_language": "Tagalog",
+        "answer_language": "Taglish",
+        "category": "services"
+    },
+    {
+        "question": "Do you clean sneakers/basketball shoes?",
+        "answer": "Yes, price starts at Php 500 per pair",
+        "client": "George Poralan",
+        "ask_language": "English",
+        "answer_language": "English",
+        "category": "services"
+    },
+    {
+        "question": "Good morning, nagppillow cleaning po kayo?",
+        "answer": "Our pillow cleaning rates for a simple pillow cleaning start at Php 130. \ud83d\ude42 \r\n\r\nHowever, the price may vary depending on the details of the pillow.  Please send us an actual picture so we can give you the best price:  \r\n\r\nSee the photo for our pillow cleaning price guide: https://drive.google.com/file/d/1Flq-lN9xrBOLSGlz7g92fK7wQvaWxQw3/view?usp=drive_link",
+        "client": "Alva Marjorie",
+        "ask_language": "Taglish",
+        "answer_language": "English",
+        "category": "services"
+    }
+]
