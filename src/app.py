@@ -1,19 +1,27 @@
+from typing import Any
 from dotenv import dotenv_values
 
-from langchain_core.vectorstores import VectorStoreRetriever
 from langchain_core.documents import Document
+from langchain_core.runnables import RunnableParallel
+from langchain_core.prompts import ChatPromptTemplate
 
 from langchain_openai import ChatOpenAI
 from langchain_openai.embeddings import OpenAIEmbeddings
 
-from pydantic.types import SecretStr
-
-from qdrant_client import QdrantClient
 from langchain_qdrant import QdrantVectorStore
 
-from pprint import pprint
+from operator import itemgetter
 
-from json import dumps, load, loads
+from json import dumps, load
+
+def clean_multi_line(text: str) -> str:
+    return "\n".join(
+        line.strip() for
+        line in
+        text
+            .strip()
+            .split("\n")
+    )
 
 def get_environment_variable(key_name: str) -> str:
     ENVIRONMENT_SECRETS = "environment_secrets"
@@ -32,8 +40,7 @@ def get_environment_variable(key_name: str) -> str:
     return environment_variable
 
 def main() -> None:
-    # This variable is unused, but it's how we provide the Open AI API key to langchain.
-    _chat_ai = ChatOpenAI(
+    chat_ai = ChatOpenAI(
         api_key=get_environment_variable("OPENAI_API_KEY") #type: ignore
     )
 
@@ -52,8 +59,45 @@ def main() -> None:
         location=":memory:"
     ).as_retriever()
 
-    a = vector_store.invoke("What time do you open po?")
-    print(a)
+    rag_prompt = ChatPromptTemplate.from_template(
+        clean_multi_line(
+        """
+        CONTEXT: ```
+        {context}
+        ```
+
+        QUERY: ```
+        {query}
+        ```
+        
+        You are a helpful assistant that's answering questions for a laundry shop.
+        The CONTEXT given to you are previous questions asked by customers and their
+        responses by the store employee; use these Q&As to answer the QUERY.
+        Speak as if you're an employee yourself and in the employees' response style.
+
+        If you don't know the answer, tell the customer to refer to the store employee instead.
+
+        NEVER UNDER ANY CIRCUMSTANCE GIVE ANY KIND OF PRICE TO THE CUSTOMER.
+        FOR PRICE QUESTIONS, ALWAYS DEFER TO THE STORE EMPLOYEE.
+        """
+        )
+    )
+
+    get_query = itemgetter("query") 
+
+    rag_chain = (
+        RunnableParallel(
+            {"context": get_query | vector_store, "query": get_query}
+        ) |
+        rag_prompt |
+        chat_ai
+    )
+
+    user_input = input("[Customer]: ")
+    response = rag_chain.invoke({"query": user_input})
+
+    print(f"[Chatbot]: {response.content}")
+
 
 if __name__ == "__main__":
     main()
